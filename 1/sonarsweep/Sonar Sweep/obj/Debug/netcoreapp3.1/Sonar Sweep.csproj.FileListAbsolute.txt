@@ -1,0 +1,14 @@
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\bin\Debug\netcoreapp3.1\Sonar Sweep.exe
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\bin\Debug\netcoreapp3.1\Sonar Sweep.deps.json
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\bin\Debug\netcoreapp3.1\Sonar Sweep.runtimeconfig.json
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\bin\Debug\netcoreapp3.1\Sonar Sweep.runtimeconfig.dev.json
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\bin\Debug\netcoreapp3.1\Sonar Sweep.dll
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\bin\Debug\netcoreapp3.1\Sonar Sweep.pdb
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\obj\Debug\netcoreapp3.1\Sonar Sweep.csproj.AssemblyReference.cache
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\obj\Debug\netcoreapp3.1\Sonar Sweep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\obj\Debug\netcoreapp3.1\Sonar Sweep.AssemblyInfoInputs.cache
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\obj\Debug\netcoreapp3.1\Sonar Sweep.AssemblyInfo.cs
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\obj\Debug\netcoreapp3.1\Sonar Sweep.csproj.CoreCompileInputs.cache
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\obj\Debug\netcoreapp3.1\Sonar Sweep.dll
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\obj\Debug\netcoreapp3.1\Sonar Sweep.pdb
+C:\Users\corey\Desktop\codeadvent2021\1\sonarsweep\Sonar Sweep\obj\Debug\netcoreapp3.1\Sonar Sweep.genruntimeconfig.cache
