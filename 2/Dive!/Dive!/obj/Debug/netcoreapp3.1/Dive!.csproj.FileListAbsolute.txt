@@ -1,0 +1,14 @@
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\bin\Debug\netcoreapp3.1\Dive!.exe
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\bin\Debug\netcoreapp3.1\Dive!.deps.json
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\bin\Debug\netcoreapp3.1\Dive!.runtimeconfig.json
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\bin\Debug\netcoreapp3.1\Dive!.runtimeconfig.dev.json
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\bin\Debug\netcoreapp3.1\Dive!.dll
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\bin\Debug\netcoreapp3.1\Dive!.pdb
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\obj\Debug\netcoreapp3.1\Dive!.csproj.AssemblyReference.cache
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\obj\Debug\netcoreapp3.1\Dive!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\obj\Debug\netcoreapp3.1\Dive!.AssemblyInfoInputs.cache
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\obj\Debug\netcoreapp3.1\Dive!.AssemblyInfo.cs
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\obj\Debug\netcoreapp3.1\Dive!.csproj.CoreCompileInputs.cache
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\obj\Debug\netcoreapp3.1\Dive!.dll
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\obj\Debug\netcoreapp3.1\Dive!.pdb
+C:\Users\corey\Desktop\codeadvent2021\2\Dive!\Dive!\obj\Debug\netcoreapp3.1\Dive!.genruntimeconfig.cache
